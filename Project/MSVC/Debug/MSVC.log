@@ -1,4 +1,4 @@
-﻿Build started 2018/6/5 16:43:56.
+﻿Build started 2018/7/16 16:50:41.
      1>Project "F:\Code_Library\GPU\Genesia\I_Twilight\G2T1_GeCov\Project\MSVC\MSVC.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          D:\Program_Files_x64\Microsoft_Visual_Studio_120\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\GeCov\coverage.c
@@ -10,4 +10,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.03
+Time Elapsed 00:00:00.76
